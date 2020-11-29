@@ -9,9 +9,11 @@ public class Lesson1Task3 {
 
         if (a > 0) {
             counter++;
-        } else if (b > 0) {
+        }
+        if (b > 0) {
             counter++;
-        } else if (c > 0) {
+        }
+        if (c > 0) {
             counter++;
         }
 
